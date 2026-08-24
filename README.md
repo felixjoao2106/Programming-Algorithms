@@ -1,38 +1,25 @@
-# 🚀 Programming & Algorithms
+# 🐍 Programming & Algorithms
 
-Repositório dedicado ao armazenamento de exercícios, desafios práticos e atividades acadêmicas desenvolvidas na disciplina de **Algoritmos e Programação**.
+Repositório voltado ao armazenamento de exercícios, desafios práticos e atividades acadêmicas desenvolvidas na disciplina de **Algoritmos e Programação** utilizando **Python**.
 
 ---
 
-## 📌 Conteúdos do Repositório
+## 📌 Tópicos & Conteúdo
 
-| Módulo | Descrição / Tópicos | Status |
+| Módulo | Conteúdo Prático | Status |
 | :--- | :--- | :---: |
-| **01. Conceitos Básicos** | Entrada e saída, variáveis, operadores aritméticos | ✅ Concluído |
-| **02. Estruturas Condicionais** | Tomada de decisão (`if`, `else`, `switch/case`) | ✅ Concluído |
-| **03. Estruturas de Repetição** | Laços de repetição (`while`, `for`, `do-while`) | ✅ Concluído |
-| **04. Vetores e Matrizes** | Arrays unidimensionais e multidimensionais | 🔄 Em andamento |
-| **05. Funções e Ponteiros** | Modularização, escopo, parâmetros e ponteiros | ⏳ Pendente |
-| **06. Algoritmos Clássicos** | Ordenação (Bubble, Quick) e Busca (Linear, Binária) | ⏳ Pendente |
+| **01. Fundamentos** | Entradas/saídas, variáveis e operadores aritméticos | ✅ Concluído |
+| **02. Estruturas Condicionais** | Tomada de decisão com `if`, `elif` e `else` | ✅ Concluído |
+| **03. Estruturas de Repetição** | Laços de repetição com `for` e `while` | ✅ Concluído |
+| **04. Estruturas de Dados** | Manipulação de listas, tuplas, dicionários e conjuntos | 🔄 Em andamento |
+| **05. Funções & Escopo** | Modularização com `def`, parâmetros e `lambda` | ⏳ Pendente |
+| **06. Algoritmos Clássicos** | Ordenação, Busca Binária e Recursão | ⏳ Pendente |
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias & Ferramentas
 
-* **Linguagem:** C / C++ / Python *(ajuste para a linguagem utilizada)*
-* **Ambiente de Desenvolvimento:** VS Code / Code::Blocks
-* **Compilador/Interpretador:** GCC / Python 3.x
+* **Linguagem:** Python 3.x
+* **Ambiente de Desenvolvimento:** VS Code / PyCharm / Jupyter Notebook
 
 ---
-
-## 📂 Estrutura de Arquivos
-
-```text
-.
-├── 01-conceitos-basicos/
-│   ├── exercicio01.c
-│   └── exercicio02.c
-├── 02-condicionais/
-├── 03-repeticao/
-├── 04-vetores-matrizes/
-└── README.md
